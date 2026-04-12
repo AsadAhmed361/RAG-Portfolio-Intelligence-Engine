@@ -1,0 +1,34 @@
+{
+  "query": "do he know about databases and scalable backend development?",
+  "search_metadata": {
+    "top_k": 3,
+    "execution_time_sec": 0.0759,
+    "total_pool_size": 10
+  },
+  "results": [
+    {
+      "score": 0.40790724754333496,
+      "content": "*   **Backend Development**: Designing **Backend APIs** using **Python FastAPI** and **Node.js**.\n*   **Cloud & DevOps**: Managing **distributed cloud systems** using **Docker** and **AWS**.\n*   **System Integration**: Seamless **hardware-to-cloud system integration**.\n---",
+      "metadata": {
+        "h1": "Asad Ahmed: Professional Profile",
+        "h2": "Core Engineering Expertise"
+      }
+    },
+    {
+      "score": 0.37297481298446655,
+      "content": "## Systems Architecture Capabilities\nHis architectural capabilities enable the creation of robust, end-to-end technological solutions:\n*   **End-to-end IoT platform design**.\n*   **Edge device firmware** and **gateway development**.\n*   **AI inference pipelines** for **real-time video analytics**.\n*   **Device telemetry streaming** and **cloud analytics**.\n*   **Microservices architecture** specifically tailored for **IoT platforms**.\n*   **Secure device communication** utilizing **zero trust architecture**.\n---",
+      "metadata": {
+        "h1": "Asad Ahmed: Professional Profile",
+        "h2": "Systems Architecture Capabilities"
+      }
+    },
+    {
+      "score": 0.3713957667350769,
+      "content": "## Engineering Focus\nAsad Ahmeds current professional focus is the construction of **intelligent hardware-software platforms**. These\nplatforms represent a convergence of **embedded electronics**, **AI inference**, and **distributed backend\ninfrastructure**.",
+      "metadata": {
+        "h1": "Asad Ahmed: Professional Profile",
+        "h2": "Engineering Focus"
+      }
+    }
+  ]
+}

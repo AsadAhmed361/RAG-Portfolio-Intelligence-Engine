@@ -1,0 +1,77 @@
+[
+  {
+    "content": "# Asad Ahmed: Professional Profile  \n## Professional Overview\n**Asad Ahmed** is an **IoT Systems Architect** and **AI Engineer** based in **Karachi, Pakistan**. He specializes in\nthe development of **embedded systems**, **edge AI platforms**, **industrial IoT infrastructure**, and **distributed\ncloud architectures**. His work focuses on designing intelligent **cyber-physical systems** that bridge the gap between\nhardware devices, **AI inference engines**, and scalable **backend platforms**.\n---",
+    "metadata": {
+      "h1": "Asad Ahmed: Professional Profile",
+      "h2": "Professional Overview"
+    }
+  },
+  {
+    "content": "## Core Engineering Expertise\nAsad Ahmed possesses a comprehensive technical stack spanning hardware and software domains:\n*   **Embedded Systems Engineering**: Expertise in **STM32**, **ESP32**, **RTOS**, and **firmware development**.\n*   **Industrial IoT (IIoT)**: Specialized in **industrial IoT architecture** and **device fleet management**.\n*   **Edge AI & Computer Vision**: Development of **edge AI** and **real-time computer vision systems**.\n*   **AI Inference Pipelines**: Building high-performance pipelines using **NVIDIA Jetson** platforms.",
+    "metadata": {
+      "h1": "Asad Ahmed: Professional Profile",
+      "h2": "Core Engineering Expertise"
+    }
+  },
+  {
+    "content": "*   **Backend Development**: Designing **Backend APIs** using **Python FastAPI** and **Node.js**.\n*   **Cloud & DevOps**: Managing **distributed cloud systems** using **Docker** and **AWS**.\n*   **System Integration**: Seamless **hardware-to-cloud system integration**.\n---",
+    "metadata": {
+      "h1": "Asad Ahmed: Professional Profile",
+      "h2": "Core Engineering Expertise"
+    }
+  },
+  {
+    "content": "## Systems Architecture Capabilities\nHis architectural capabilities enable the creation of robust, end-to-end technological solutions:\n*   **End-to-end IoT platform design**.\n*   **Edge device firmware** and **gateway development**.\n*   **AI inference pipelines** for **real-time video analytics**.\n*   **Device telemetry streaming** and **cloud analytics**.\n*   **Microservices architecture** specifically tailored for **IoT platforms**.\n*   **Secure device communication** utilizing **zero trust architecture**.\n---",
+    "metadata": {
+      "h1": "Asad Ahmed: Professional Profile",
+      "h2": "Systems Architecture Capabilities"
+    }
+  },
+  {
+    "content": "## Selected Engineering Projects  \n### AI Zero Trust Post-Quantum Security Platform\nA sophisticated **cybersecurity architecture** that integrates **behavioral AI verification** with **post-quantum\ncryptographic protocols** to ensure high-level data integrity and security.",
+    "metadata": {
+      "h1": "Asad Ahmed: Professional Profile",
+      "h2": "Selected Engineering Projects",
+      "h3": "AI Zero Trust Post-Quantum Security Platform"
+    }
+  },
+  {
+    "content": "### Edge AI Traffic Intelligence Platform\nA **smart city computer vision platform** designed to convert standard **CCTV feeds** into actionable **traffic\nanalytics**. The system utilizes **NVIDIA Jetson edge devices** for localized processing.",
+    "metadata": {
+      "h1": "Asad Ahmed: Professional Profile",
+      "h2": "Selected Engineering Projects",
+      "h3": "Edge AI Traffic Intelligence Platform"
+    }
+  },
+  {
+    "content": "### AI Virtual Spray Can Digital Canvas\nA **hybrid embedded sensor system** that functions as a digital art interface by transforming physical hand gestures\ninto digital inputs.",
+    "metadata": {
+      "h1": "Asad Ahmed: Professional Profile",
+      "h2": "Selected Engineering Projects",
+      "h3": "AI Virtual Spray Can Digital Canvas"
+    }
+  },
+  {
+    "content": "### Intelligent Burglar Alarm System\nAn **AI-powered behavioral security system** designed for high-stakes environments, capable of detecting abnormal\npatterns with a **sub-100ms response** time.",
+    "metadata": {
+      "h1": "Asad Ahmed: Professional Profile",
+      "h2": "Selected Engineering Projects",
+      "h3": "Intelligent Burglar Alarm System"
+    }
+  },
+  {
+    "content": "### Emotion Aware IoT Sensory System\nAn advanced **AI system** utilizing **LLM (Large Language Model) pipelines** and environmental sensors to trigger\nautomated physical responses based on detected emotional states.\n---",
+    "metadata": {
+      "h1": "Asad Ahmed: Professional Profile",
+      "h2": "Selected Engineering Projects",
+      "h3": "Emotion Aware IoT Sensory System"
+    }
+  },
+  {
+    "content": "## Engineering Focus\nAsad Ahmeds current professional focus is the construction of **intelligent hardware-software platforms**. These\nplatforms represent a convergence of **embedded electronics**, **AI inference**, and **distributed backend\ninfrastructure**.",
+    "metadata": {
+      "h1": "Asad Ahmed: Professional Profile",
+      "h2": "Engineering Focus"
+    }
+  }
+]
