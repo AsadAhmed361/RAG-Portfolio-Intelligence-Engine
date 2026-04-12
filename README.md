@@ -37,15 +37,15 @@ The system is divided into modular classes for maintainability and scalability:
 
 ---
 
-## 3. Conversational Memory & Context Preservation
+## Future Roadmap: Conversational Memory & Context Preservation
 
-The system is designed to support persistent conversational continuity through optimized context management:
+Planned enhancements for future iterations include persistent conversational memory and long-term context retention features:
 
-1. **Incremental Context Updates:** New conversation history can be appended continuously over time  
-2. **Previous Chat Referencing:** Historical chat references can be injected into the retrieval pipeline  
-3. **Context Compression:** Prior interactions can be summarized/optimized before storage to reduce token overhead  
-4. **Semantic Memory Retrieval:** Relevant prior conversations can be retrieved contextually during inference  
-5. **Long-Term Context Maintenance:** Enables sustained multi-turn intelligence across sessions  
+- Incremental Context Updates  
+- Previous Chat Referencing  
+- Context Compression  
+- Semantic Memory Retrieval  
+- Long-Term Context Maintenance  
 
 ---
 
