@@ -1,6 +1,6 @@
-# Pro-RAG: High-Performance Autonomous Portfolio Intelligence
+# RAG Portfolio Intelligence Engine
 
-Pro-RAG is an end-to-end Retrieval-Augmented Generation (RAG) system that transforms professional portfolio data into an intelligent, low-latency AI assistant. The system autonomously crawls portfolio sources, synthesizes structured documentation, generates embeddings, and serves context-aware responses through a persistent in-memory retrieval engine.
+RAG Portfolio Intelligence Engine is an end-to-end Retrieval-Augmented Generation (RAG) system that transforms professional portfolio data into an intelligent, low-latency AI assistant. The system autonomously crawls portfolio sources, synthesizes structured documentation, generates embeddings, and serves context-aware responses through a persistent in-memory retrieval engine.
 
 ---
 
