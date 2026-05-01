@@ -159,6 +159,17 @@ uvicorn app:app --reload
 
 ---
 
+## Get This System Built for You
+
+If you want a similar AI system for your own documents, portfolio, or business data:
+
+👉 I offer this as a service:
+https://www.fiverr.com/asadahmed405/turn-your-documents-into-an-ai-chatbot-rag-system/
+
+I can build custom RAG-based AI assistants tailored to your data and use case.
+
+---
+
 ## Differentiation
 
 Unlike most RAG demos, this system is:
